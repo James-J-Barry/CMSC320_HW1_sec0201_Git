@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Finance and long term investing.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging integrates the contents in both branches, while rebasing 
+copies the commits from one branch to the other.
+
